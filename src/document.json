@@ -1,0 +1,23 @@
+{
+  "school": [
+    {
+      "name": "HEIG-VD",
+      "type": "Haute école spécialisée",
+      "students": [
+        { "firstName": "Jonathan", "lastName": "Pinard", "filière": "Ingénerie des médias" },
+        { "firstName": "Daniel", "lastName": "Vale", "filière": "Informatique" },
+        { "firstName": "Joé", "lastName": "Favre", "filière": "Génie éléctrique" }
+      ]
+    },
+
+    {
+      "name": "EPFL",
+      "type": "Université",
+      "students": [
+        { "firstName": "Maxime", "lastName": "Cousin", "filière": "Microtechnique" },
+        { "firstName": "Valentine", "lastName": "Picht", "filière": "Sciences du vivant" },
+        { "firstName": "Lucy", "lastName": "Manca", "filière": "Médecine" }
+      ]
+    }
+  ]
+}
